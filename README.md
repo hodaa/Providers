@@ -8,8 +8,8 @@ DataProviderX data is stored in [DataProviderX.json]
 DataProviderY data is stored in [DataProviderX.json]
 
 ## Tools
-Python3
-Flask
+* Python3
+* Flask
 
 ## Installation
 
