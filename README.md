@@ -9,9 +9,19 @@ DataProviderY data is stored in [DataProviderX.json]
 
 ## Tools
 * Python3
+* python3-venv
+* pip3
 * Flask
 
 ## Installation
+
+Make sure you’re in your project directory.
+
+`python3 -m venv venv`
+
+`source venv/bin/activate`
+
+`pip3 install flask`
 
 `python3 app.py`
 
